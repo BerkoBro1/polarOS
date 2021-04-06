@@ -1,0 +1,3 @@
+root\apps
+root\sys64
+C:\

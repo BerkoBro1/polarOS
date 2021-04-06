@@ -1,0 +1,4 @@
+apps.minesweeper.SettingsGUI
+apps.encryptedTextEditor.Login
+apps.sys64.fileExplorer.FileExplorer
+apps.snake.Snake
