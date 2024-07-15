@@ -1,0 +1,1 @@
+Just a mock operating system I tried making a while ago. Nothing crazy, though I did manage to create a developer package for it. This part is actually really cool because it allows the operating system to hook into external .jar files to load up programs in the main operating system. I'm really proud of this part of the program. You can ignore the rest of it though :)
